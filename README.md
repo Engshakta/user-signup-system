@@ -1,4 +1,5 @@
 User Signup System
+
 A simple and secure web application that allows users to sign up by providing their first name, last name, and email address. This project demonstrates a full-stack approach to handling user input, saving data to a MySQL database, and managing frontend and backend interactions.
 
 Features
